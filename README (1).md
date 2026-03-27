@@ -54,7 +54,7 @@ I specialize in end-to-end data work: cleaning raw data, building models, prepar
 ## Core Competencies
 
 ```
-Data Cleaning          Data Modeling          Data Preparation
+Data Cleaning          Data Modeling          Financial Reporting
 Data Visualization     Exploratory Analysis   Dashboard Design
 Excel VBA and Macros   Business Reporting     Statistical Analysis
 ```
