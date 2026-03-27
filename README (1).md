@@ -1,5 +1,5 @@
 <h1 align="center">Aqsa Sumreen</h1>
-<h3 align="center">Data Analyst | Aspiring Data Scientist | Python • Power BI • Excel • Tableau</h3>
+<h3 align="center">Data Analyst | Power bi developer | Python • Power BI • Excel • Tableau</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aqsasumreen">
@@ -18,7 +18,6 @@ I'm a Data Analyst with a BS in Software Engineering, working at the intersectio
 
 I work across multiple analysis domains, turning messy, complex datasets into clear decisions and actionable insights. My toolkit spans Python, Power BI, Excel (including VBA and Macros), and Tableau.
 
-- BS Software Engineering — completed
 - Currently working in **Data Analysis**, with a long-term goal in **Machine Learning and Data Science**
 - Certified in Data Science courses via **Coursera**
 - Open to collaborating on **data analysis and data science projects**
@@ -27,17 +26,7 @@ I work across multiple analysis domains, turning messy, complex datasets into cl
 
 ## What I Do
 
-I specialize in end-to-end data work: cleaning raw data, building models, preparing it for analysis, and visualizing results so stakeholders can act on them.
-
-**Domains I work in:**
-
-| Domain | Focus |
-|---|---|
-| Sales Analysis | Revenue trends, KPIs, sales performance |
-| Healthcare Analysis | Patient data, operational insights |
-| Financial Analysis | Budgeting, forecasting, financial reporting |
-| Supply Chain Analysis | Inventory, logistics, performance tracking |
-| HR Analysis | Workforce metrics, attrition, hiring trends |
+I specialize in end-to-end data work: cleaning raw data, building models, preparing it for analysis, and visualizing results so stakeholders can act on them. I work in different domains, including Sales, Healthcare, Financial, Supply Chain, and HR.
 
 ---
 
@@ -48,6 +37,7 @@ I specialize in end-to-end data work: cleaning raw data, building models, prepar
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=black)
 
 ### Business Intelligence and Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -84,8 +74,9 @@ Excel VBA and Macros   Business Reporting     Statistical Analysis
 
 ## Certifications
 
-- Coursera — Data Science and related courses *(add specific course names and dates here)*
-
+- Coursera — Python for Data Science, AI & Development
+- Coursera — Databases and SQL for Data Science with Python
+- Udemy - Power bi Financial Reporting & Financial analysis
 ---
 
 ## GitHub Stats
