@@ -16,7 +16,7 @@
 
 I'm a Data Analyst with a BS in Software Engineering, working at the intersection of data analysis and business insight. My goal is to grow into a full Data Scientist, and I'm actively building that path through hands-on analytical work and continuous learning.
 
-I work across multiple analysis domains, turning messy, complex datasets into clear decisions and actionable insights. My toolkit spans Python, Power BI, Excel (including VBA and Macros), and Tableau.
+I work across multiple analysis domains, turning messy, complex datasets into clear decisions and actionable insights. My toolkit spans Python, Power BI, Excel (including VBA and Macros), and Tableau. Currently advancing in Tableau while building foundations in Machine Learning, Data Science, and statistical methods.
 Open to collaborating on **data analysis and data science projects**
 
 ---
@@ -58,15 +58,6 @@ Data Cleaning          Data Modeling          Financial Reporting
 Data Visualization     Exploratory Analysis   Dashboard Design
 Excel VBA and Macros   Business Reporting     Statistical Analysis
 ```
-
----
-
-## Currently Learning
-
-- **Tableau** (advancing from beginner to intermediate)
-- **Machine Learning** fundamentals, building toward Data Science
-- Statistical methods for deeper analytical work
-
 ---
 
 ## Certifications
