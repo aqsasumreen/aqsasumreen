@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Power bi developer | Python • Power BI • Excel • Tableau</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aqsasumreen">
+  <a href="https://www.linkedin.com/in/aqsa-sumreen">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aqsasamreen92@gmail.com">
