@@ -27,9 +27,7 @@ I specialize in end-to-end data work: cleaning raw data, building models, prepar
 
 ---
 
-## Skills
 
-```markdown
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -52,7 +50,6 @@ I specialize in end-to-end data work: cleaning raw data, building models, prepar
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-```
 ---
 
 ## Core Competencies
