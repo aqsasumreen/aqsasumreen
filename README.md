@@ -52,16 +52,11 @@ I specialize in end-to-end data work: cleaning raw data, building models, prepar
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-## Core Competencies
-
-
----
-
 ## Certifications
 
 - Coursera — Python for Data Science, AI & Development
 - Coursera — Databases and SQL for Data Science with Python
-- Udemy - Power bi Financial Reporting & Financial analysis
+- Udemy — Power bi Financial Reporting & Financial analysis
 ---
 
 ## GitHub Stats
