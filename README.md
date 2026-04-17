@@ -23,7 +23,7 @@ Open to collaborating on **data analysis and data science projects**
 
 ## What I Do
 
-I specialize in end-to-end data work: cleaning raw data, building models, preparing it for analysis, and visualizing results so stakeholders can act on them. I work in different domains, including Sales, Healthcare, Finance, Supply Chain, and HR.
+I specialize in end-to-end data work: cleaning raw data, building models, preparing it for analysis, and visualizing results so stakeholders can act on them. I work in different domains, including Sales, Healthcare, Finance, Supply Chain, and HR Analytics.
 
 ---
 
